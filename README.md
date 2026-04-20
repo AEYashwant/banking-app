@@ -18,7 +18,7 @@ A terminal / command prompt
 
 Steps
 bash# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/banking-app.git
+git clone https://github.com/AEYashwant/banking-app.git
 
 # 2. Navigate into the folder
 cd banking-app
